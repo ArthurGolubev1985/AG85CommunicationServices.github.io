@@ -1,0 +1,4 @@
+User-Agent: *
+
+Sitemap: https://ArthurGolubev.com/sitemap.xml
+
